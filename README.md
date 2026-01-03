@@ -1,7 +1,9 @@
+___
+
 <div align="center">
 
   <!-- LEFT IMAGE / GIF -->
-  <img src="./your-image.gif" alt="profile image" width="220px" align="left"/>
+  <img src="./blackstar.gif" alt="blackstar" width="220px" align="left"/>
 
   <!-- TYPING HEADER: Name -->
   <a href="https://git.io/typing-svg">
