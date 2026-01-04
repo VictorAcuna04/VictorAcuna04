@@ -3,7 +3,7 @@ ___
 <div align="center">
 
   <!-- LEFT IMAGE / GIF -->
-  <img src="./blackstar.gif" alt="blackstar" width="500px" align="left"/>
+  <img src="./blackstar.gif" alt="blackstar" width="300px" align="left"/>
 
   <!-- TYPING HEADER: Name -->
   <a href="https://git.io/typing-svg">
@@ -14,6 +14,9 @@ ___
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&pause=1000&color=CDCEC8&background=CDCEC800&center=true&vCenter=true&multiline=true&width=500&height=80&lines=As+long+as+I+don't+admit+admit+defeat%2C;then+it'll+never+be+a+loss!" alt="Typing SVG" />
   </a>
+
+<br>
+<br>
 
   <!-- SHORT BIO -->
   <pre>🎓 Computer Science and Engineering Student at <a href="https://www.ucla.edu" target="_blank">UCLA</a>
